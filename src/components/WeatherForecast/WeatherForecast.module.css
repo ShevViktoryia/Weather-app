@@ -1,0 +1,18 @@
+.WeatherForecast {
+  height: inherit;
+  width: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.degree {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.city {
+  margin: 0 20px;
+  font-size: 30px;
+  font-weight: 500;
+}
